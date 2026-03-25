@@ -28,8 +28,8 @@ No primeiro momento, criamos o arquivo do laboratório no PNetLab e inserimos tr
 |Dispositivo|Interface|IP|Máscara|
 |---|---|---|---|
 |Host A|eth0|192.168.10.10|/24|
-|Router|eth0|192.168.10.1|/24|
-|Router|eth1|192.168.20.1|/24|
+|Switch|eth0|192.168.10.1|/24|
+|Switch|eth1|192.168.20.1|/24|
 |Host B|eth0|192.168.20.10|/24|
 
 ## Procedimentos
